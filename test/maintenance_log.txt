@@ -1,0 +1,91 @@
+2025-04-02 17:01:56 - Added new location: Library
+2025-04-02 17:01:56 - Added new location: Main Building
+2025-04-02 17:01:56 - Added new location: Science Lab
+2025-04-02 17:01:56 - Added new location: Student Center
+2025-04-02 17:01:56 - Added new location: Cafeteria
+2025-04-02 17:01:56 - Added new location: Administration
+2025-04-02 17:01:56 - Added new location: Sports Complex
+2025-04-02 17:01:56 - Added new location: Research Center
+2025-04-02 17:01:56 - Added new location: Garden
+2025-04-02 17:01:56 - Added new location: Dormitory A
+2025-04-02 17:01:56 - Added new location: Dormitory B
+2025-04-02 17:01:56 - Added new location: Parking Lot
+2025-04-02 17:01:56 - Added new path from 0 to 1
+2025-04-02 17:01:56 - Added new path from 0 to 2
+2025-04-02 17:01:56 - Added new path from 0 to 3
+2025-04-02 17:01:56 - Added new path from 1 to 0
+2025-04-02 17:01:56 - Added new path from 1 to 3
+2025-04-02 17:01:56 - Added new path from 1 to 4
+2025-04-02 17:01:56 - Added new path from 1 to 5
+2025-04-02 17:01:56 - Added new path from 2 to 0
+2025-04-02 17:01:56 - Added new path from 2 to 6
+2025-04-02 17:01:56 - Added new path from 3 to 0
+2025-04-02 17:01:56 - Added new path from 3 to 1
+2025-04-02 17:01:56 - Added new path from 4 to 1
+2025-04-02 17:01:56 - Added new path from 5 to 1
+2025-04-02 17:01:56 - Added new path from 5 to 7
+2025-04-02 17:01:56 - Added new path from 6 to 2
+2025-04-02 17:01:56 - Added new path from 7 to 5
+2025-04-02 17:01:56 - Added new path from 7 to 8
+2025-04-02 17:01:56 - Added new path from 8 to 7
+2025-04-02 17:01:56 - Added new path from 8 to 9
+2025-04-02 17:01:56 - Added new path from 9 to 8
+2025-04-02 17:01:56 - Added new path from 9 to 11
+2025-04-02 17:01:56 - Added new path from 10 to 11
+2025-04-02 17:01:56 - Added new path from 11 to 9
+2025-04-02 17:01:56 - Added new path from 11 to 10
+2025-04-02 17:01:56 - Loaded campus data from campus_backup.txt
+2025-04-02 17:01:56 - System initialized
+2025-04-02 17:02:16 - User logged in: Mithun
+2025-04-02 17:04:04 - Starting simulation for 2 days from location 5
+2025-04-02 17:04:04 - Updated cleanliness status for all locations over 1 days
+2025-04-02 17:04:04 - Generating daily route from location 5
+2025-04-02 17:04:04 - Selected high-priority location: Cafeteria (Priority: 23.000000)
+2025-04-02 17:04:04 - Selected high-priority location: Sports Complex (Priority: 15.560013)
+2025-04-02 17:04:04 - Selected high-priority location: Main Building (Priority: 13.920000)
+2025-04-02 17:04:04 - Cleaned location: Main Building
+2025-04-02 17:04:04 - Cleaned location: Main Building
+2025-04-02 17:04:04 - Cleaned location: Cafeteria
+2025-04-02 17:04:04 - Cleaned location: Cafeteria
+2025-04-02 17:04:04 - Cleaned location: Main Building
+2025-04-02 17:04:04 - Cleaned location: Main Building
+2025-04-02 17:04:04 - Cleaned location: Sports Complex
+2025-04-02 17:04:04 - Cleaned location: Sports Complex
+2025-04-02 17:04:04 - Saved campus data to campus_backup.txt
+2025-04-02 17:04:04 - Updated cleanliness status for all locations over 1 days
+2025-04-02 17:04:04 - Generating daily route from location 5
+2025-04-02 17:04:04 - Selected high-priority location: Student Center (Priority: 23.100000)
+2025-04-02 17:04:04 - Selected high-priority location: Cafeteria (Priority: 23.000000)
+2025-04-02 17:04:04 - Selected high-priority location: Science Lab (Priority: 18.130000)
+2025-04-02 17:04:04 - Cleaned location: Student Center
+2025-04-02 17:04:04 - Cleaned location: Student Center
+2025-04-02 17:04:04 - Cleaned location: Cafeteria
+2025-04-02 17:04:04 - Cleaned location: Cafeteria
+2025-04-02 17:04:04 - Cleaned location: Science Lab
+2025-04-02 17:04:04 - Cleaned location: Science Lab
+2025-04-02 17:04:04 - Saved campus data to campus_backup.txt
+2025-04-02 17:05:27 - Starting simulation for 2 days from location 0
+2025-04-02 17:05:27 - Updated cleanliness status for all locations over 1 days
+2025-04-02 17:05:27 - Generating daily route from location 0
+2025-04-02 17:05:27 - Selected high-priority location: Main Building (Priority: 24.100000)
+2025-04-02 17:05:27 - Selected high-priority location: Library (Priority: 23.700000)
+2025-04-02 17:05:27 - Selected high-priority location: Cafeteria (Priority: 23.000000)
+2025-04-02 17:05:27 - Cleaned location: Main Building
+2025-04-02 17:05:27 - Cleaned location: Main Building
+2025-04-02 17:05:27 - Cleaned location: Main Building
+2025-04-02 17:05:27 - Cleaned location: Main Building
+2025-04-02 17:05:27 - Cleaned location: Cafeteria
+2025-04-02 17:05:27 - Cleaned location: Cafeteria
+2025-04-02 17:05:27 - Saved campus data to campus_backup.txt
+2025-04-02 17:05:27 - Updated cleanliness status for all locations over 1 days
+2025-04-02 17:05:27 - Generating daily route from location 0
+2025-04-02 17:05:27 - Selected high-priority location: Library (Priority: 30.366667)
+2025-04-02 17:05:27 - Selected high-priority location: Student Center (Priority: 23.100000)
+2025-04-02 17:05:27 - Selected high-priority location: Cafeteria (Priority: 23.000000)
+2025-04-02 17:05:27 - Cleaned location: Student Center
+2025-04-02 17:05:27 - Cleaned location: Student Center
+2025-04-02 17:05:27 - Cleaned location: Cafeteria
+2025-04-02 17:05:27 - Cleaned location: Cafeteria
+2025-04-02 17:05:27 - Saved campus data to campus_backup.txt
+2025-04-02 17:05:39 - Saved campus data to campus_backup.txt
+2025-04-02 17:05:39 - Created backup of campus data
